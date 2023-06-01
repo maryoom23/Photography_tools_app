@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "887647496958",
+    "project_id": "photography-tools-c09f6",
+    "storage_bucket": "photography-tools-c09f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887647496958:android:5c15050e531fc9cc62d3af",
+        "android_client_info": {
+          "package_name": "com.example.photographytoolsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZK3fH3gieD2L3t8drKmZa1WR0dUZ2dc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
